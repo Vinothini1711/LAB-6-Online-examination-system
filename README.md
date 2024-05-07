@@ -34,17 +34,16 @@ DEVELOPED BY: VINOTHINI T
 
 REGISTER NUMBER: 212223040245
 ## 1.USECASE DIAGRAM
-![Screenshot 2024-04-23 114351](https://github.com/Vinothini1711/LAB-1-ATM/assets/144300204/f4371879-9e39-4354-9388-35cf87962d6b)
+![Screenshot 2024-05-07 114734](https://github.com/Vinothini1711/LAB-6-Online-examination-system/assets/144300204/56b921a5-cbeb-486b-92d2-998c44c7fba3)
 ## 2.CLASS DIAGRAM
-![Screenshot 2024-04-23 114400](https://github.com/Vinothini1711/LAB-1-ATM/assets/144300204/40f81e9c-70c2-44bd-9c78-af3f49c02122)
+![Screenshot 2024-05-07 114746](https://github.com/Vinothini1711/LAB-6-Online-examination-system/assets/144300204/5522414a-7871-4859-8d6c-e8034b314f72)
 ## 3.ACTIVITY DIAGRAM
-![Screenshot 2024-04-23 114418](https://github.com/Vinothini1711/LAB-1-ATM/assets/144300204/2f294cc8-4792-4e96-974b-47ba7f4c79f4)
+![Screenshot 2024-05-07 114758](https://github.com/Vinothini1711/LAB-6-Online-examination-system/assets/144300204/d29832fc-4203-4382-aa48-115a187ace4e)
 ## 4.SEQUENCE DIAGRAM
-![Screenshot 2024-04-23 114453](https://github.com/Vinothini1711/LAB-1-ATM/assets/144300204/9f916bdf-4f0c-4690-8ca5-b011dd4ac606)
+![Screenshot 2024-05-07 114808](https://github.com/Vinothini1711/LAB-6-Online-examination-system/assets/144300204/4e522ef8-ef0c-4544-bd0e-22dd19b5c133)
 ## 5.STATECHART DIAGRAM
-![Screenshot 2024-04-23 114518](https://github.com/Vinothini1711/LAB-1-ATM/assets/144300204/de9ab8d2-06b9-4ab0-9f3f-6ca696b12b58)
+![Screenshot 2024-05-07 114832](https://github.com/Vinothini1711/LAB-6-Online-examination-system/assets/144300204/1b138ed2-dac7-4273-9f65-3294420b310a)
 ## 6.COMMUNICATION DIAGRAM
-![Screenshot 2024-04-23 114537](https://github.com/Vinothini1711/LAB-1-ATM/assets/144300204/ab80b27e-6a73-4a23-ae70-3a6b13285278)
+![Screenshot 2024-05-07 114842](https://github.com/Vinothini1711/LAB-6-Online-examination-system/assets/144300204/353dfcf0-35e0-4824-b3b6-667946006367)
 ### RESULT:
-Thus the project to develop Exam Registration system was developed using Star UML
-Software is done successfully.
+Thus the project to develop Exam Registration system was developed using Star UML Software is done successfully.
